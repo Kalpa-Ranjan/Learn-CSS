@@ -12,4 +12,3 @@ Code for CSS
     color: white;
 }
 ```
-[![Hover](https://github.com/Kalpa-Ranjan/Learn-CSS/blob/main/Videos/Hover.mp4)]
