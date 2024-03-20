@@ -3,7 +3,7 @@
 ## 1. Hover
 Code for HTML
 ```html
-<a href="#" class="btn" target="_blank">Hover</a>
+<a href="#" class="btn" target="_blank">TextHover</a>
 ```
 Code for CSS
 ```css
