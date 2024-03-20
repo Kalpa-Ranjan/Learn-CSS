@@ -1,4 +1,10 @@
 # Learn-CSS
+> Topics recommended by Hitesh Chaudhury
+1. File structure
+2. Pqadding, Margin, B-G color, text-color
+3. Inline & Block, class & ID
+4. Position- Flexbox
+5. Tailwind & 5 full website with Mobile view
 
 ## 1. Hover
 Code for HTML
@@ -23,3 +29,4 @@ body{
 ```
 https://github.com/Kalpa-Ranjan/Learn-CSS/assets/42665868/aed3f8a5-7610-4109-9d89-4cd3f88ef2fb
 
+## 2.
