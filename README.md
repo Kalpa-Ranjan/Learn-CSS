@@ -21,5 +21,5 @@ body{
     color: red;
 }
 ```
-https://github.com/Kalpa-Ranjan/Learn-CSS/assets/42665868/d2a62f43-fd8e-47ba-a3ea-c88cfd05fd4f
+https://github.com/Kalpa-Ranjan/Learn-CSS/assets/42665868/aed3f8a5-7610-4109-9d89-4cd3f88ef2fb
 
