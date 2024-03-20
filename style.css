@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    font-size: 32px;   
+}
+
+.btn{
+    color: white;
+}
+
+.btn:hover{
+    color: red;
+}
